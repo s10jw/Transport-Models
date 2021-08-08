@@ -1,1 +1,2 @@
 # Transport-Models
+Earlier this year I began my exploration into the world of quantum mechanics. I half-hazzardly stumbled my way through what I then believed to be an accurate model for the band-structure of bulk material. It is in this repository that I hope to achieve complete and efficient models of the same systems, but via a different approach, as outlined in Supriyo Datta's book: Quantum Transport: From Atom to Transistor.
