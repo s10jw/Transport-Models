@@ -127,3 +127,10 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+Transport-Models/.idea/inspectionProfiles/profiles_settings.xml
+Transport-Models/.idea/inspectionProfiles/Project_Default.xml
+Transport-Models/.idea/misc.xml
+Transport-Models/.idea/modules.xml
+Transport-Models/.idea/Transport-Models.iml
+Transport-Models/.idea/vcs.xml
+Transport-Models/WB.py
